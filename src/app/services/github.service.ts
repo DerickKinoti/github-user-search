@@ -9,7 +9,7 @@ export class GithubService {
 
 
   constructor (private _http: HttpClient) {
-    this.username = 'Babuuh';
+    this.username = 'DerickKinoti';
   }
 
   getUser() {
